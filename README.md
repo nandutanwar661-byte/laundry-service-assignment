@@ -74,8 +74,7 @@ For this assignment, the credentials are stored in a separate config.js file
 to avoid hardcoding them inside the main JavaScript logic.
 
 ## Deployment
-Live Link: [https://zippy-concha-3a9654.netlify.app/](https://zippy-concha-3a9654.netlify.app/)
-
+Live Link: https://legendary-moxie-2b3b76.netlify.app
 ## What I Learned
 
 
