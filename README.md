@@ -74,8 +74,8 @@ For this assignment, the credentials are stored in a separate config.js file
 to avoid hardcoding them inside the main JavaScript logic.
 
 ## Deployment
-Live Link: https://legendary-moxie-2b3b76.netlify.app
-## What I Learned
+[Live Link: https://legendary-moxie-2b3b76.netlify.app
+](https://bright-bombolone-125a13.netlify.app/)## What I Learned
 
 
 From this project I learned:
